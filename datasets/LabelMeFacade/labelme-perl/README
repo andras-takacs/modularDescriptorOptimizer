@@ -1,0 +1,9 @@
+modules needed: 
+
+Tie::Persistent
+
+#########################
+
+install them with e.g.
+perl -MCPAN -eshell
+install Tie::Persistent
